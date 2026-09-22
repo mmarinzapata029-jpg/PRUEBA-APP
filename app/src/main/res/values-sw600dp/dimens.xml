@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tamaños para tablets de 7" en adelante (ancho disponible >= 600dp) -->
+    <dimen name="title_text_size">40sp</dimen>
+    <dimen name="button_text_size">18sp</dimen>
+    <dimen name="android_logo_size">96dp</dimen>
+    <dimen name="button_min_width">200dp</dimen>
+    <dimen name="content_top_bias_margin">96dp</dimen>
+</resources>
